@@ -9,6 +9,7 @@ Formerly fast memory operations could only be used via Adobe Alchemy (nowadays k
 If you are interested in history of fast memory operations in Flash, here are some additional links.
 
 http://philippe.elsass.me/2010/05/as3-fast-memory-access-without-alchemy/
+
 https://en.wikipedia.org/wiki/CrossBridge
 ## How can I use Domain Memory?
 Using domain memory is really simple. A basic example can be found here:
